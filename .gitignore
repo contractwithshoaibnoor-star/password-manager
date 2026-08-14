@@ -1,0 +1,4 @@
+venv/
+vault_data.json
+salt.bin
+__pycache__/
